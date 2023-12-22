@@ -1,0 +1,121 @@
+Migrant region one year ago code,Migrant region one year ago label,Regions code,Regions label,Count
+E12000001,North East,E12000001,North East,15303
+E12000001,North East,E12000002,North West,765
+E12000001,North East,E12000003,Yorkshire and The Humber,1082
+E12000001,North East,E12000004,East Midlands,356
+E12000001,North East,E12000005,West Midlands,235
+E12000001,North East,E12000006,East of England,459
+E12000001,North East,E12000007,London,994
+E12000001,North East,E12000008,South East,645
+E12000001,North East,E12000009,South West,269
+E12000001,North East,W92000004,Wales,90
+E12000002,North West,E12000001,North East,532
+E12000002,North West,E12000002,North West,33181
+E12000002,North West,E12000003,Yorkshire and The Humber,1592
+E12000002,North West,E12000004,East Midlands,776
+E12000002,North West,E12000005,West Midlands,1345
+E12000002,North West,E12000006,East of England,700
+E12000002,North West,E12000007,London,1437
+E12000002,North West,E12000008,South East,940
+E12000002,North West,E12000009,South West,582
+E12000002,North West,W92000004,Wales,737
+E12000003,Yorkshire and The Humber,E12000001,North East,986
+E12000003,Yorkshire and The Humber,E12000002,North West,2667
+E12000003,Yorkshire and The Humber,E12000003,Yorkshire and The Humber,29750
+E12000003,Yorkshire and The Humber,E12000004,East Midlands,1686
+E12000003,Yorkshire and The Humber,E12000005,West Midlands,932
+E12000003,Yorkshire and The Humber,E12000006,East of England,1151
+E12000003,Yorkshire and The Humber,E12000007,London,1714
+E12000003,Yorkshire and The Humber,E12000008,South East,1311
+E12000003,Yorkshire and The Humber,E12000009,South West,627
+E12000003,Yorkshire and The Humber,W92000004,Wales,258
+E12000004,East Midlands,E12000001,North East,351
+E12000004,East Midlands,E12000002,North West,1136
+E12000004,East Midlands,E12000003,Yorkshire and The Humber,1362
+E12000004,East Midlands,E12000004,East Midlands,29211
+E12000004,East Midlands,E12000005,West Midlands,1923
+E12000004,East Midlands,E12000006,East of England,2211
+E12000004,East Midlands,E12000007,London,2582
+E12000004,East Midlands,E12000008,South East,1902
+E12000004,East Midlands,E12000009,South West,750
+E12000004,East Midlands,W92000004,Wales,288
+E12000005,West Midlands,E12000001,North East,160
+E12000005,West Midlands,E12000002,North West,1066
+E12000005,West Midlands,E12000003,Yorkshire and The Humber,643
+E12000005,West Midlands,E12000004,East Midlands,1329
+E12000005,West Midlands,E12000005,West Midlands,20769
+E12000005,West Midlands,E12000006,East of England,1181
+E12000005,West Midlands,E12000007,London,2432
+E12000005,West Midlands,E12000008,South East,1826
+E12000005,West Midlands,E12000009,South West,949
+E12000005,West Midlands,W92000004,Wales,461
+E12000006,East of England,E12000001,North East,177
+E12000006,East of England,E12000002,North West,360
+E12000006,East of England,E12000003,Yorkshire and The Humber,350
+E12000006,East of England,E12000004,East Midlands,766
+E12000006,East of England,E12000005,West Midlands,422
+E12000006,East of England,E12000006,East of England,12120
+E12000006,East of England,E12000007,London,2532
+E12000006,East of England,E12000008,South East,1475
+E12000006,East of England,E12000009,South West,551
+E12000006,East of England,W92000004,Wales,172
+E12000007,London,E12000001,North East,222
+E12000007,London,E12000002,North West,725
+E12000007,London,E12000003,Yorkshire and The Humber,607
+E12000007,London,E12000004,East Midlands,800
+E12000007,London,E12000005,West Midlands,835
+E12000007,London,E12000006,East of England,1676
+E12000007,London,E12000007,London,21050
+E12000007,London,E12000008,South East,2924
+E12000007,London,E12000009,South West,1106
+E12000007,London,W92000004,Wales,340
+E12000008,South East,E12000001,North East,381
+E12000008,South East,E12000002,North West,759
+E12000008,South East,E12000003,Yorkshire and The Humber,588
+E12000008,South East,E12000004,East Midlands,1035
+E12000008,South East,E12000005,West Midlands,1015
+E12000008,South East,E12000006,East of England,2332
+E12000008,South East,E12000007,London,6108
+E12000008,South East,E12000008,South East,37126
+E12000008,South East,E12000009,South West,2730
+E12000008,South East,W92000004,Wales,557
+E12000009,South West,E12000001,North East,207
+E12000009,South West,E12000002,North West,624
+E12000009,South West,E12000003,Yorkshire and The Humber,438
+E12000009,South West,E12000004,East Midlands,594
+E12000009,South West,E12000005,West Midlands,1106
+E12000009,South West,E12000006,East of England,1242
+E12000009,South West,E12000007,London,3148
+E12000009,South West,E12000008,South East,4059
+E12000009,South West,E12000009,South West,32210
+E12000009,South West,W92000004,Wales,1091
+N99999999,Does not apply: Northern Ireland,E12000001,North East,17
+N99999999,Does not apply: Northern Ireland,E12000002,North West,52
+N99999999,Does not apply: Northern Ireland,E12000003,Yorkshire and The Humber,11
+N99999999,Does not apply: Northern Ireland,E12000004,East Midlands,4
+N99999999,Does not apply: Northern Ireland,E12000005,West Midlands,11
+N99999999,Does not apply: Northern Ireland,E12000006,East of England,12
+N99999999,Does not apply: Northern Ireland,E12000007,London,18
+N99999999,Does not apply: Northern Ireland,E12000008,South East,19
+N99999999,Does not apply: Northern Ireland,E12000009,South West,15
+N99999999,Does not apply: Northern Ireland,W92000004,Wales,13
+S99999999,Does not apply: Scotland,E12000001,North East,262
+S99999999,Does not apply: Scotland,E12000002,North West,471
+S99999999,Does not apply: Scotland,E12000003,Yorkshire and The Humber,281
+S99999999,Does not apply: Scotland,E12000004,East Midlands,155
+S99999999,Does not apply: Scotland,E12000005,West Midlands,185
+S99999999,Does not apply: Scotland,E12000006,East of England,294
+S99999999,Does not apply: Scotland,E12000007,London,1056
+S99999999,Does not apply: Scotland,E12000008,South East,524
+S99999999,Does not apply: Scotland,E12000009,South West,251
+S99999999,Does not apply: Scotland,W92000004,Wales,99
+W92000004,Wales,E12000001,North East,75
+W92000004,Wales,E12000002,North West,587
+W92000004,Wales,E12000003,Yorkshire and The Humber,224
+W92000004,Wales,E12000004,East Midlands,280
+W92000004,Wales,E12000005,West Midlands,776
+W92000004,Wales,E12000006,East of England,322
+W92000004,Wales,E12000007,London,578
+W92000004,Wales,E12000008,South East,920
+W92000004,Wales,E12000009,South West,1339
+W92000004,Wales,W92000004,Wales,15846
