@@ -1,0 +1,101 @@
+Migrant region one year ago code,Migrant region one year ago label,oRow,oCol,Regions code,Regions label,dRow,dCol,Count
+E12000001,North East,0,2,E12000001,North East,0,2,15303
+E12000001,North East,0,2,E12000002,North West,1,1,765
+E12000001,North East,0,2,E12000003,Yorkshire and The Humber,1,3,1082
+E12000001,North East,0,2,E12000004,East Midlands,2,3,356
+E12000001,North East,0,2,E12000005,West Midlands,2,2,235
+E12000001,North East,0,2,E12000006,East of England,2,4,459
+E12000001,North East,0,2,E12000007,London,3,3,994
+E12000001,North East,0,2,E12000008,South East,4,3,645
+E12000001,North East,0,2,E12000009,South West,4,1,269
+E12000001,North East,0,2,W92000004,Wales,2,0,90
+E12000002,North West,1,1,E12000001,North East,0,2,532
+E12000002,North West,1,1,E12000002,North West,1,1,33181
+E12000002,North West,1,1,E12000003,Yorkshire and The Humber,1,3,1592
+E12000002,North West,1,1,E12000004,East Midlands,2,3,776
+E12000002,North West,1,1,E12000005,West Midlands,2,2,1345
+E12000002,North West,1,1,E12000006,East of England,2,4,700
+E12000002,North West,1,1,E12000007,London,3,3,1437
+E12000002,North West,1,1,E12000008,South East,4,3,940
+E12000002,North West,1,1,E12000009,South West,4,1,582
+E12000002,North West,1,1,W92000004,Wales,2,0,737
+E12000003,Yorkshire and The Humber,1,3,E12000001,North East,0,2,986
+E12000003,Yorkshire and The Humber,1,3,E12000002,North West,1,1,2667
+E12000003,Yorkshire and The Humber,1,3,E12000003,Yorkshire and The Humber,1,3,29750
+E12000003,Yorkshire and The Humber,1,3,E12000004,East Midlands,2,3,1686
+E12000003,Yorkshire and The Humber,1,3,E12000005,West Midlands,2,2,932
+E12000003,Yorkshire and The Humber,1,3,E12000006,East of England,2,4,1151
+E12000003,Yorkshire and The Humber,1,3,E12000007,London,3,3,1714
+E12000003,Yorkshire and The Humber,1,3,E12000008,South East,4,3,1311
+E12000003,Yorkshire and The Humber,1,3,E12000009,South West,4,1,627
+E12000003,Yorkshire and The Humber,1,3,W92000004,Wales,2,0,258
+E12000004,East Midlands,2,3,E12000001,North East,0,2,351
+E12000004,East Midlands,2,3,E12000002,North West,1,1,1136
+E12000004,East Midlands,2,3,E12000003,Yorkshire and The Humber,1,3,1362
+E12000004,East Midlands,2,3,E12000004,East Midlands,2,3,29211
+E12000004,East Midlands,2,3,E12000005,West Midlands,2,2,1923
+E12000004,East Midlands,2,3,E12000006,East of England,2,4,2211
+E12000004,East Midlands,2,3,E12000007,London,3,3,2582
+E12000004,East Midlands,2,3,E12000008,South East,4,3,1902
+E12000004,East Midlands,2,3,E12000009,South West,4,1,750
+E12000004,East Midlands,2,3,W92000004,Wales,2,0,288
+E12000005,West Midlands,2,2,E12000001,North East,0,2,160
+E12000005,West Midlands,2,2,E12000002,North West,1,1,1066
+E12000005,West Midlands,2,2,E12000003,Yorkshire and The Humber,1,3,643
+E12000005,West Midlands,2,2,E12000004,East Midlands,2,3,1329
+E12000005,West Midlands,2,2,E12000005,West Midlands,2,2,20769
+E12000005,West Midlands,2,2,E12000006,East of England,2,4,1181
+E12000005,West Midlands,2,2,E12000007,London,3,3,2432
+E12000005,West Midlands,2,2,E12000008,South East,4,3,1826
+E12000005,West Midlands,2,2,E12000009,South West,4,1,949
+E12000005,West Midlands,2,2,W92000004,Wales,2,0,461
+E12000006,East of England,2,4,E12000001,North East,0,2,177
+E12000006,East of England,2,4,E12000002,North West,1,1,360
+E12000006,East of England,2,4,E12000003,Yorkshire and The Humber,1,3,350
+E12000006,East of England,2,4,E12000004,East Midlands,2,3,766
+E12000006,East of England,2,4,E12000005,West Midlands,2,2,422
+E12000006,East of England,2,4,E12000006,East of England,2,4,12120
+E12000006,East of England,2,4,E12000007,London,3,3,2532
+E12000006,East of England,2,4,E12000008,South East,4,3,1475
+E12000006,East of England,2,4,E12000009,South West,4,1,551
+E12000006,East of England,2,4,W92000004,Wales,2,0,172
+E12000007,London,3,3,E12000001,North East,0,2,222
+E12000007,London,3,3,E12000002,North West,1,1,725
+E12000007,London,3,3,E12000003,Yorkshire and The Humber,1,3,607
+E12000007,London,3,3,E12000004,East Midlands,2,3,800
+E12000007,London,3,3,E12000005,West Midlands,2,2,835
+E12000007,London,3,3,E12000006,East of England,2,4,1676
+E12000007,London,3,3,E12000007,London,3,3,21050
+E12000007,London,3,3,E12000008,South East,4,3,2924
+E12000007,London,3,3,E12000009,South West,4,1,1106
+E12000007,London,3,3,W92000004,Wales,2,0,340
+E12000008,South East,4,3,E12000001,North East,0,2,381
+E12000008,South East,4,3,E12000002,North West,1,1,759
+E12000008,South East,4,3,E12000003,Yorkshire and The Humber,1,3,588
+E12000008,South East,4,3,E12000004,East Midlands,2,3,1035
+E12000008,South East,4,3,E12000005,West Midlands,2,2,1015
+E12000008,South East,4,3,E12000006,East of England,2,4,2332
+E12000008,South East,4,3,E12000007,London,3,3,6108
+E12000008,South East,4,3,E12000008,South East,4,3,37126
+E12000008,South East,4,3,E12000009,South West,4,1,2730
+E12000008,South East,4,3,W92000004,Wales,2,0,557
+E12000009,South West,4,1,E12000001,North East,0,2,207
+E12000009,South West,4,1,E12000002,North West,1,1,624
+E12000009,South West,4,1,E12000003,Yorkshire and The Humber,1,3,438
+E12000009,South West,4,1,E12000004,East Midlands,2,3,594
+E12000009,South West,4,1,E12000005,West Midlands,2,2,1106
+E12000009,South West,4,1,E12000006,East of England,2,4,1242
+E12000009,South West,4,1,E12000007,London,3,3,3148
+E12000009,South West,4,1,E12000008,South East,4,3,4059
+E12000009,South West,4,1,E12000009,South West,4,1,32210
+E12000009,South West,4,1,W92000004,Wales,2,0,1091
+W92000004,Wales,2,0,E12000001,North East,0,2,75
+W92000004,Wales,2,0,E12000002,North West,1,1,587
+W92000004,Wales,2,0,E12000003,Yorkshire and The Humber,1,3,224
+W92000004,Wales,2,0,E12000004,East Midlands,2,3,280
+W92000004,Wales,2,0,E12000005,West Midlands,2,2,776
+W92000004,Wales,2,0,E12000006,East of England,2,4,322
+W92000004,Wales,2,0,E12000007,London,3,3,578
+W92000004,Wales,2,0,E12000008,South East,4,3,920
+W92000004,Wales,2,0,E12000009,South West,4,1,1339
+W92000004,Wales,2,0,W92000004,Wales,2,0,15846
